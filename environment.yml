@@ -12,3 +12,5 @@ dependencies:
 - seaborn
 - selenium
 - pandas
+- webdriver-manager
+
