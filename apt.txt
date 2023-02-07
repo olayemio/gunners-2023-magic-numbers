@@ -1,2 +1,2 @@
-chrome
+google-chrome-stable
 firefox
