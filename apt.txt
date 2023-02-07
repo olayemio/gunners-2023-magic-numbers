@@ -1,0 +1,2 @@
+apt-get install -y chrome
+apt-get install -y firefox
