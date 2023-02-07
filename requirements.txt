@@ -9,3 +9,4 @@ scipy
 seaborn
 selenium
 pandas
+geckodriver_autoinstaller
